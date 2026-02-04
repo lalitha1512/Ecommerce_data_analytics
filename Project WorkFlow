@@ -1,0 +1,7 @@
+## 1. Data Cleaning & Preparation (Python)
+
+    Loaded raw CSV data into Pandas DataFrames
+
+    Converted and validated date and numeric fields
+
+    Handled inconsistencies and prepared structured data for analysis
