@@ -1,7 +1,30 @@
-## 1. Data Cleaning & Preparation (Python)
+## 1. Data Cleaning & Preparation (Python - Numpy,Pandas)
 
     Loaded raw CSV data into Pandas DataFrames
 
     Converted and validated date and numeric fields
 
     Handled inconsistencies and prepared structured data for analysis
+
+## 2. Exploratory Data Analysis (Python)
+
+    Performed grouping, aggregation, and filtering operations
+
+    Generated descriptive statistics
+
+    Identified trends and patterns across multiple dimensions
+
+## 3. Data Visualization (Python- Matplotlib)
+
+    Created line, bar, scatter, KPI and bubble charts
+
+    Visualized trends, comparisons, and relationships within the data
+## 4. Excel Analysis & Dashboard
+
+    Imported cleaned data into Excel
+
+    Built Pivot Tables for summarized analysis
+
+    Designed interactive dashboards using charts and slicers
+
+    Applied conditional formatting to highlight key insights
